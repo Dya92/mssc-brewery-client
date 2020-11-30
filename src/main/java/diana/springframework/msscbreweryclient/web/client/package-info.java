@@ -1,0 +1,1 @@
+package diana.springframework.msscbreweryclient.web.client;
