@@ -8,7 +8,7 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>guru.springframework</groupId>
+    <groupId>diana.springframework</groupId>
     <artifactId>mssc-brewery-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mssc-brewery-client</name>
